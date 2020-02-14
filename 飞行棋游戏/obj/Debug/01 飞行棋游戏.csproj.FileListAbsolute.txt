@@ -1,0 +1,7 @@
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\bin\Debug\01 飞行棋游戏.exe.config
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\bin\Debug\01 飞行棋游戏.exe
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\bin\Debug\01 飞行棋游戏.pdb
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\obj\Debug\01 飞行棋游戏.csprojAssemblyReference.cache
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\obj\Debug\01 飞行棋游戏.csproj.CoreCompileInputs.cache
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\obj\Debug\01 飞行棋游戏.exe
+D:\C#.NET\DoNet基础教程08\01 飞行棋游戏\obj\Debug\01 飞行棋游戏.pdb
